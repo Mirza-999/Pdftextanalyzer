@@ -1,0 +1,5 @@
+gradio
+google-generativeai
+chardet
+PyMuPDF
+langdetect
